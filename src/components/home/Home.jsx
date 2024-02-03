@@ -117,7 +117,7 @@ function Home() {
 
   return (
     <div id="home" class="container-fluid bg-2 text-center">
-            <h1>Inventory Management System React</h1>
+            <h1>Work Order Management System React</h1>
             <br/>
         <div class="row">
             
